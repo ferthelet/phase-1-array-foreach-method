@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Use `forEach()` to work with an array
-- Explain why `forEach()` is the "least expressive" iterator method
+- Use `forEach()` to work with an array.
+- Explain why `forEach()` is the "least expressive" iterator method.
 - Identify use cases for `forEach()`
 
 ## Introduction
